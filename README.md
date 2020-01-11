@@ -1,1 +1,2 @@
-# SwiftRadio
+# SwiftRadio XCUITest demo
+![](swiftRadio.gif)
